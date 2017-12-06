@@ -1,0 +1,11 @@
+- !leechiesnews.model.WebSite
+  url: https://www.coindesk.com/category/news/
+  cleanerClass: leechiesnews.cleaner.CoindeskCleaner  
+  linkSelector: .post-info > h3 a
+  titleSelector: .featured-article-title
+  textSelector: .article-content-container.noskimwords
+  imgUrlSelector: .attachment-full.size-full.wp-post-image
+  tagSelector: p.single-tags > a
+  author: cryptopress  
+  postKey: 5K1cmqnKrMqU37H5oqQrXP59gJL8acStcubZBDH9Qcv1tDHc695
+  activeKey: 5K9yBhdoM6fMG4Sq86PGyddHCm1iRjhjTMDAdV8hcY5FFcBdx8s 

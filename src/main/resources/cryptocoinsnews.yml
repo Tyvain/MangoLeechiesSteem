@@ -1,0 +1,11 @@
+- !leechiesnews.model.WebSite
+  url: http://www.cryptocoinsnews.com/news
+  cleanerClass: leechiesnews.cleaner.CryptocoinsnewsCleaner  
+  linkSelector: h3 > a[rel]:not([href~=hacked])
+  titleSelector: h1.entry-title
+  textSelector: '#primary'
+  imgUrlSelector: div.site-header-bg
+  tagSelector: li.meta-cat > a
+  author: cryptopress  
+  postKey: 5K1cmqnKrMqU37H5oqQrXP59gJL8acStcubZBDH9Qcv1tDHc695
+  activeKey: 5K9yBhdoM6fMG4Sq86PGyddHCm1iRjhjTMDAdV8hcY5FFcBdx8s 

@@ -1,0 +1,11 @@
+- !leechiesnews.model.WebSite
+  url: http://www.lifehack.org
+  cleanerClass: leechiesnews.cleaner.LifeHackCleaner  
+  linkSelector: div > div.row > a
+  titleSelector: article:nth-child(1) > span > div > div > div.container > div > div > div > div > div > h1
+  textSelector: div.infinity-post-item
+  imgUrlSelector: div > div:nth-child(1) > div > img 
+  tagSelector: article:nth-child(1) > span > div > div > div > div > div > div > div > a
+  author: lifehackpress
+  postKey: 5Km2M8csFBEvQjLh9eG8r2fAj4iT6EMNXrfnb1YZ4EZkCuNNpFH
+  activeKey: 5Jtuy7pYbXq3AGRQNCzFp7KsRE5PMRnrPzUbbRd2dFYroSFLomW

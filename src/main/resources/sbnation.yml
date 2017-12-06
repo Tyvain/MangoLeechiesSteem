@@ -1,0 +1,11 @@
+- !leechiesnews.model.WebSite
+  url: https://www.sbnation.com/nfl-news
+  cleanerClass: leechiesnews.cleaner.SbNationCleaner  
+  linkSelector: .c-entry-box--compact__title > a
+  titleSelector: .c-page-title
+  textSelector: .c-entry-content
+  imgUrlSelector: .e-image__image 
+  tagSelector: none
+  author: nflpress
+  postKey: 5Km2M8csFBEvQjLh9eG8r2fAj4iT6EMNXrfnb1YZ4EZkCuNNpFH
+  activeKey: 5Jtuy7pYbXq3AGRQNCzFp7KsRE5PMRnrPzUbbRd2dFYroSFLomW
