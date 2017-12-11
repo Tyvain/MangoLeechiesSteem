@@ -10,7 +10,7 @@ import leechiesnews.model.News;
 public class BGDemotivationalSteem extends AbstractBG {
 	//static String folder = "../../data/GImg/demotivational";
 	static String folder = "/projects/data/GImg/demotivational";
-	static List<String> tags = Arrays.asList("funny", "busty", "boobs", "sexy", "bustygirls");
+	static List<String> tags = Arrays.asList("funny", "busty", "boobs", "BG-funny", "bustygirls");
 	
 	
 	public static void main(String[] args) throws IOException {

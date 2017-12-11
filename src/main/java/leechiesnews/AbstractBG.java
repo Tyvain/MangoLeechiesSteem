@@ -8,8 +8,21 @@ public abstract class AbstractBG {
 	static String author = "bustygirls";
 	static String activeKey = "5J6QqeqnEcGsAv4vMfSSa7geiEnwZPpKnDM9fa3wApcxJNmCmn2";		
 	static String postKey = "5KRS3P14ccgEMf2p1XsL7rD4BrVnSGNMeLPYL3fJtH4aD5Qfzmz";
-	static String disclaimer = "<b>Disclaimer: I found these pictures on the internet. I didn't make them, I don't own any rights to them, I just downloaded them and decided to share them with you.</b>";
+	static String disclaimer = "# Sharing busty girls pictures into different categories:\r\n- <a href=\"https://steemit.com/trending/BG-funny\">BG-funny - funny boobs pictures - safe to open - no nudity</a>\r\n- <a href=\"https://steemit.com/trending/BG-photography\">BG-photography - beautiful photos of busty girls - safe to open - no nudity</a>\r\n- <a href=\"https://steemit.com/trending/BG-introducing\">BG-introducing - presenting a beautiful busty girl - NSFW - nudity</a>\r\n- <a href=\"https://steemit.com/trending/BG-gifs\">BG-gifs - sexual gifs - NSFW - porn</a>\r\n\r\nWhy this blog: I have been gathering busty girls pictures over the years, here is my contribution to the steemit network :)\r\n\r\nIf you want to help me: upvote / follow / resteem / donate\r\n\r\n<b>Disclaimer: I didn't make those pictures - I don't own any rights to them - I just downloaded them and decided to share them with you.</b>";
 	protected static String postImageUrl = "";
+	
+//	# Sharing busty girls pictures into different categories:
+//		- <a href="https://steemit.com/trending/BG-funny">BG-funny - funny boobs pictures - safe to open - no nudity</a>
+//		- <a href="https://steemit.com/trending/BG-photography">BG-photography - beautiful photos of busty girls - safe to open - no nudity</a>
+//		- <a href="https://steemit.com/trending/BG-introducing">BG-introducing - presenting a beautiful busty girl - NSFW - nudity</a>
+//		- <a href="https://steemit.com/trending/BG-gifs">BG-gifs - sexual gifs - NSFW - porn</a>
+//
+//		Why this blog: I have been gathering busty girls pictures over the years, here is my contribution to the steemit network :)
+//
+//		If you want to help me: upvote / follow / resteem / donate
+//
+//		<b>Disclaimer: I didn't make those pictures - I don't own any rights to them - I just downloaded them and decided to share them with you.</b>
+	
 	
 	protected static String getRandomComment () {		
 //		String[] part1 = {"What do you think about this?\n", "oO\n", "Not sure about this one...\n", "I'm confused here...\n", "Hmmmm....\n", "Is this good or bad?\n", "I like this ones :)", 
