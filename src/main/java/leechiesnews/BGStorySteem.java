@@ -14,7 +14,7 @@ import leechiesnews.model.RandomNames;
 public class BGStorySteem extends AbstractBG {
 	//static String folder = "../../data/BTP/Photos";
 	static String folder = "/projects/data/BTP/Photos";
-	static List<String> tags = Arrays.asList("nsfw", "busty", "boobs", "BG-introducing", "bustygirls");
+	static List<String> tags = Arrays.asList("nsfw", "busty", "boobs", "bgintroducing", "bustygirls");
 	static String randomFile = FileManager.pickRandomFile(folder);
 	static int numberOfPic;
 

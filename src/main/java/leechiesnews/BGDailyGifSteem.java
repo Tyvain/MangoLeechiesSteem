@@ -13,7 +13,7 @@ import leechiesnews.model.News;
 public class BGDailyGifSteem extends AbstractBG {
 	//static String folder = "../../data/dailygif";
 	static String folder = "/projects/data/dailygif";
-	static List<String> tags = Arrays.asList("nsfw", "busty", "porn", "BG-gifs", "bustygirls");
+	static List<String> tags = Arrays.asList("nsfw", "busty", "porn", "bggifs", "bustygirls");
 	static int numberOfPic;
 
 	public static void main(String[] args) throws IOException {
