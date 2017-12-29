@@ -8,7 +8,16 @@ public abstract class AbstractBG {
 	static String author = "bustygirls";
 	static String activeKey = "5J6QqeqnEcGsAv4vMfSSa7geiEnwZPpKnDM9fa3wApcxJNmCmn2";		
 	static String postKey = "5KRS3P14ccgEMf2p1XsL7rD4BrVnSGNMeLPYL3fJtH4aD5Qfzmz";
-	static String disclaimer = "<p><b>This blog shares busty girls pictures into different categories:</b></p><p>- <a href=\"https://steemit.com/created/bgfunny\">BG-funny - funny boobs pictures - safe to open - no nudity</a></p><p>- <a href=\"https://steemit.com/created/bgphotography\">BG-photography - beautiful photos of busty girls - safe to open - no nudity</a></p><p>- <a href=\"https://steemit.com/created/bgintroducing\">BG-introducing - presenting a beautiful busty girl - NSFW - nudity</a></p><p>- <a href=\"https://steemit.com/created/bggifs\">bggifs - sexual gifs - NSFW - porn</a></p><p></p><p>Why this blog: I have been gathering busty girls pictures over the years, here is my contribution to the steemit network :)</p><p></p><p>If you want to help me: upvote / follow / resteem / donate</p><p></p><p><b>Disclaimer: I didn't make those pictures - I don't own any rights to them - I just downloaded them and decided to share them with you.</b></p>";
+	static String disclaimer = "<p><b>This blog shares busty girls pictures into different categories:</b></p>"
+	+"<p>- <a href=\"https://steemit.com/created/bgfunny\">BG-funny - funny boobs pictures - safe to open - no nudity</a></p>"
+	+"<p>- <a href=\"https://steemit.com/created/bgphotography\">BG-photography - beautiful photos of busty girls - safe to open - no nudity</a></p>"
+	+"<p>- <a href=\"https://steemit.com/created/bg24\">BG-24 - 24 pictures of sexy girls everyday - NSFW - nudity</a></p>"		
+	+"<p>- <a href=\"https://steemit.com/created/bgintroducing\">BG-introducing - presenting a beautiful busty girl - NSFW - nudity</a></p>"
+	+"<p>- <a href=\"https://steemit.com/created/bggifs\">bggifs - sexual gifs - NSFW - porn</a></p>"
+	+"<p></p><p>Why this blog: I have been gathering busty girls pictures over the years, here is my contribution to the steemit network :)</p>"
+	+"<p></p><p>If you want to help me: upvote / follow / resteem / donate</p><p></p>"
+	+"<p><b>Disclaimer: I didn't make those pictures - I don't own any rights to them - I just downloaded them and decided to share them with you.</b></p>";
+		
 	protected static String postImageUrl = "";
 	
 //	# Sharing busty girls pictures into different categories:
