@@ -75,11 +75,11 @@
 			<version>3.5.0</version>
 		</dependency>
 		<dependency>
-			<groupId>eu.bittrade.libs</groupId>
-			<artifactId>steem-api-wrapper</artifactId>
-			<version>0.3.4</version>
+		    <groupId>eu.bittrade.libs</groupId>
+		    <artifactId>steemj-core</artifactId>
+		    <version>0.4.3</version>
 		</dependency>
-				<dependency>
+		<dependency>
 		    <groupId>com.cloudinary</groupId>
 		    <artifactId>cloudinary-http44</artifactId>
 		    <version>1.16.0</version>

@@ -21,7 +21,7 @@ public class BG24PicsSteem extends AbstractBG {
 		news.activeKey = activeKey;
 		news.postKey = postKey;
 		String texte = getTexte(folder);
-		news.cleanTitle = "Busty Girls - 24 (" + numberOfPic + " pics)";
+		news.cleanTitle = "Busty Girls - 24 naked (" + numberOfPic + " pics)";
 		news.cleanText = texte;
 		news.cleanImgUrl = postImageUrl;
 		System.out.println("----->\n" + texte);
