@@ -20,18 +20,6 @@ public abstract class AbstractBG {
 		
 	protected static String postImageUrl = "";
 	
-//	# Sharing busty girls pictures into different categories:
-//		- <a href="https://steemit.com/trending/BG-funny">BG-funny - funny boobs pictures - safe to open - no nudity</a>
-//		- <a href="https://steemit.com/trending/BG-photography">BG-photography - beautiful photos of busty girls - safe to open - no nudity</a>
-//		- <a href="https://steemit.com/trending/BG-introducing">BG-introducing - presenting a beautiful busty girl - NSFW - nudity</a>
-//		- <a href="https://steemit.com/trending/BG-gifs">BG-gifs - sexual gifs - NSFW - porn</a>
-//
-//		Why this blog: I have been gathering busty girls pictures over the years, here is my contribution to the steemit network :)
-//
-//		If you want to help me: upvote / follow / resteem / donate
-//
-//		<b>Disclaimer: I didn't make those pictures - I don't own any rights to them - I just downloaded them and decided to share them with you.</b>
-	
 	
 	protected static String getRandomComment () {		
 //		String[] part1 = {"What do you think about this?\n", "oO\n", "Not sure about this one...\n", "I'm confused here...\n", "Hmmmm....\n", "Is this good or bad?\n", "I like this ones :)", 

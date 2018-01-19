@@ -22,7 +22,7 @@ public class BGDemotivationalSteem extends AbstractBG {
 		String texte = getTexte(folder);
 		news.cleanText = texte;
 		news.cleanImgUrl = postImageUrl;
-		System.out.println("----->\n"  + texte);
+		//System.out.println("----->\n"  + texte);
 		news.cleanTags = tags;	
 		SteemManager.uploadNews(news);
 	}	

@@ -24,7 +24,7 @@ public class FileManager {
         resultList.addAll(Arrays.asList(fList));
         for (File file : fList) {
             if (file.isFile()) {
-                System.out.println(file.getAbsolutePath());
+             //   System.out.println(file.getAbsolutePath());
             } else if (file.isDirectory()) {
                 resultList.addAll(listAllFiles(file.getAbsolutePath()));
             }
