@@ -14,20 +14,6 @@ import com.cloudinary.utils.ObjectUtils;
 
 public class FileManager {
 	
-//	public static File pickFirstRandomFolder (String directoryName) {
-//         File[] fList = new File(directoryName).listFiles();
-//         return fList[new Random().nextInt(fList.length)];
-//	}
-//	
-//	// on récupere une liste de fichier d'un sous repertoire pris au hasard
-//	public static List<File> listAllImageRandomFromSubDir (String directoryName) {
-//		File repo = pickFirstRandomFolder(directoryName);
-//		
-//		// Get a random sub file
-//		// list all file from this file's repo
-//		return listAllFiles(repo.getAbsolutePath());
-//	}
-	
 	private static List<File> listAllFiles(String directoryName) {
         File directory = new File(directoryName);
 
@@ -69,7 +55,7 @@ public class FileManager {
 		Cloudinary cloudinary = new Cloudinary(config);		
 		
 		Map<?, ?> rez = cloudinary.uploader().upload(file, ObjectUtils.emptyMap());
-		System.out.println(rez.get("url"));
+		//System.out.println(rez.get("url"));
 		return ""+rez.get("url");
 	}	
 	

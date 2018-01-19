@@ -24,7 +24,7 @@ public class BG24PicsSteem extends AbstractBG {
 		news.cleanTitle = "Busty Girls - 24 naked (" + numberOfPic + " pics)";
 		news.cleanText = texte;
 		news.cleanImgUrl = postImageUrl;
-		System.out.println("----->\n" + texte);
+		//System.out.println("----->\n" + texte);
 		news.cleanTags = tags;
 		SteemManager.uploadNews(news);
 	}
@@ -44,7 +44,7 @@ public class BG24PicsSteem extends AbstractBG {
 			String url = FileManager.uploadImg(filesListSelected[i].getAbsolutePath());
 			if (i == 0) {
 				postImageUrl = url;
-				System.out.println("----------> -url: " + url);
+				//System.out.println("----------> -url: " + url);
 			}
 			texte += imgUrlToHTML(url) + "\n\n";
 		}
