@@ -16,7 +16,12 @@ public class FileManager {
 	
 	private static List<File> listAllFiles(String directoryName) {
         File directory = new File(directoryName);
-
+        
+        if (!directory.exists()) {
+        	// on cherche dans le repertoire ressources
+        	directory  = new File(FileManager.class.getClassLoader().getResource(directoryName).getFile());
+        }        
+        
         List<File> resultList = new ArrayList<File>();
 
         // get all the files from a directory

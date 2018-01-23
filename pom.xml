@@ -75,9 +75,9 @@
 			<version>3.5.0</version>
 		</dependency>
 		<dependency>
-		    <groupId>eu.bittrade.libs</groupId>
-		    <artifactId>steemj-core</artifactId>
-		    <version>0.4.3</version>
+    		<groupId>eu.bittrade.libs</groupId>
+    		<artifactId>steemj-core</artifactId>
+    		<version>0.4.3</version>
 		</dependency>
 		<dependency>
 		    <groupId>com.cloudinary</groupId>
